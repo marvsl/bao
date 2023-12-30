@@ -1,14 +1,14 @@
-[
-  {
+{
+  "person1": {
     "name": "Alice",
     "age": 25
   },
-  {
+  "person2": {
     "name": "Bob",
     "age": 30
   },
-  {
+  "person3": {
     "name": "Charlie",
     "age": 22
   }
-]
+}
