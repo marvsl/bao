@@ -1,14 +1,14 @@
-{
-  "person1": {
-    "name": "Alice",
-    "age": 25
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "Example City",
+    "skills": ["JavaScript", "Python", "HTML", "CSS"]
   },
-  "person2": {
-    "name": "Bob",
-    "age": 30
-  },
-  "person3": {
-    "name": "Charlie",
-    "age": 22
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "city": "Sample Town",
+    "skills": ["Java", "C#", "SQL"]
   }
-}
+]
